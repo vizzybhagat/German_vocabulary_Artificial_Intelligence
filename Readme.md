@@ -10,7 +10,9 @@ Please Note: The earlier posts contain beginner level words used in Artificial I
 
 Dieses Repository enthält über 20 Wörter täglicher Vokabellisten in deutscher Sprache, die für den Bereich Data Science relevant sind. Sie stammen aus dem ins Deutsche übersetzten Buch „Künstliche Intelligenz: Ein moderner Ansatz“ von Peter Norvig und Stuart J. Russell.
 
-Ich habe diese Liste als Referenz erstellt, Sie können sie aber gerne verwenden. Die früheren Beiträge enthalten Wörter für Anfänger, die in der künstlichen Intelligenz verwendet werden, im Gegensatz zu den neuen Beiträgen. Aus Zeitgründen wurde das Geschlecht der Substantive selbstverständlich weggelassen.
+Ich habe diese Liste als Referenz erstellt, Sie können sie aber gerne verwenden. Es ist sehr schwierig, eine Vokabelliste mit deutschen Wörtern zu bekommen, die in der Informatik/im maschinellen Lernen/in der Datenwissenschaft verwendet werden.
+
+Die früheren Beiträge enthalten Wörter für Anfänger, die in der künstlichen Intelligenz verwendet werden, im Gegensatz zu den neuen Beiträgen. Aus Zeitgründen wurde das Geschlecht der Substantive selbstverständlich weggelassen.
 
 
 
