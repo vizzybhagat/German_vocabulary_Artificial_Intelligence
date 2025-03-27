@@ -1,6 +1,8 @@
 This repository contains 20+ words of daily vocabulary lists in the German language, relevant to the field of Data Science, taken from the German translated book "Artificial Intelligence: A Modern Approach" by Peter Norvig and Stuart J. Russell. 
 
-I decided to make this for my reference but feel free to use them. The earlier posts contain beginner level words used in Artificial Intelligence than the new posts. Of course, the gender of nouns is omitted because of less time. 
+I decided to make this for my reference but feel free to use them. It is very difficult to get any vocabulary lists for german words used in Computer Science/ Machine Learning/ Data Science. 
+
+Please Note: The earlier posts contain beginner level words used in Artificial Intelligence than the new posts. Of course, the gender of nouns is omitted because of less time. 
 
 ********************************************************************************************************************************************************************************************************************************************************************************************************************
 
